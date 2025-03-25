@@ -42,3 +42,23 @@ section {
     background: #ecf0f1;
     margin-top: 4rem;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+input,
+button {
+    padding: 0.5rem;
+}
+
+button {
+    background: #2ecc71;
+    color: white;
+    border: none;
+    cursor: pointer;
+}

@@ -23,3 +23,8 @@ Desenvolver uma landing page para a TechFlow , uma startup de tecnologia sustent
 ## Como Visualizar
 1. Clone o repositório: `git clone <URL>`
 2. Abra `index.html` em um navegador.
+
+## Mudanças no Escopo
+**Data**: 25/03/2025
+**Alteração**: Adição de uma seção "Sobre Nós".
+**Justificativa**: Cliente solicitou destaque da missão da Techflow para engajar visitantes.
